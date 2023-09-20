@@ -2,7 +2,6 @@
 Certainly, here's a sample README file that you can include with your calculator app code:
 
 # Simple Calculator App
-Author[Asman]
 This is a basic calculator application built using the Kivy framework in Python. It provides a simple graphical user interface for performing mathematical calculations.
 
 ## Features
@@ -24,6 +23,3 @@ This is a basic calculator application built using the Kivy framework in Python.
 2. Use the on-screen buttons to input numbers and perform calculations.
 3. Press the "=" button to evaluate the expression in the input field.
 4. Press the "C" button to clear the input field.
-
-## Author
-This Program was written by Asman
